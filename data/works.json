@@ -1,0 +1,80 @@
+[
+  {
+    "id": "work01",
+    "name": "Work 01",
+    "label": "angry",
+    "quote": "흐린 눈으로 볼 수 있게 해준다",
+    "message": "“지금 그 빨간 마음,<br>흐릿하게 보면 작은 점 하나일지도 몰라.”",
+    "photo": "posters/work01-photo.png",
+    "selected": "posters/selected/Work2_01.png",
+    "mask": "",
+    "defaultFilter": "mosaic",
+    "caption": "",
+    "bbox": null
+  },
+  {
+    "id": "work02",
+    "name": "Work 02",
+    "label": "Sensitivity",
+    "quote": "있는 그대로 보지 않아도 된다",
+    "message": "“전부 또렷하게 볼 필요 없어.<br>네 결을 따라 흘러가도 돼.”",
+    "photo": "posters/work02-photo.png",
+    "selected": "posters/selected/Work2_02.png",
+    "mask": "",
+    "defaultFilter": "halftone",
+    "caption": "",
+    "bbox": null
+  },
+  {
+    "id": "work03",
+    "name": "Work 03",
+    "label": "Anxiety",
+    "quote": "멀리서 보면 희극이 된다",
+    "message": "“한 발만 떨어져 봐.<br>지금 흔들리는 것도 결국 풍경이 돼.”",
+    "photo": "posters/work03-photo.png",
+    "selected": "posters/selected/Work2_03.png",
+    "mask": "",
+    "defaultFilter": "stipple",
+    "caption": "",
+    "bbox": null
+  },
+  {
+    "id": "work04",
+    "name": "Work 04",
+    "label": "Loneliness",
+    "quote": "선명하지 않아 오래 바라볼 수 있다",
+    "message": "“또렷하지 않아도 괜찮아.<br>너의 속도로 천천히 머물러도 돼.”",
+    "photo": "posters/work04-photo.png",
+    "selected": "posters/selected/Work2_04.png",
+    "mask": "",
+    "defaultFilter": "spike",
+    "caption": "",
+    "bbox": null
+  },
+  {
+    "id": "work05",
+    "name": "Work 05",
+    "label": "Melancholy",
+    "quote": "옛 감성을 불러온다",
+    "message": "“흐물거려도 괜찮아.<br>오늘은 도트처럼, 딱 한 칸씩만.”",
+    "photo": "posters/work05-photo.png",
+    "selected": "posters/selected/Work2_05.png",
+    "mask": "",
+    "defaultFilter": "wave",
+    "caption": "",
+    "bbox": null
+  },
+  {
+    "id": "work06",
+    "name": "Work 06",
+    "label": "Lethargy",
+    "quote": "단순함 속 여백을 남긴다",
+    "message": "“점 하나하나가 모여 그림이 되듯,<br>비어 있는 너도 이미 한 장면이야.”",
+    "photo": "posters/work06-photo.png",
+    "selected": "posters/selected/Work2_06.png",
+    "mask": "",
+    "defaultFilter": "ascii",
+    "caption": "",
+    "bbox": null
+  }
+]

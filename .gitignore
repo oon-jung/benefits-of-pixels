@@ -1,0 +1,8 @@
+node_modules
+dist
+.DS_Store
+*.log
+.vite
+
+# 원본 이미지 (용량 크면 git 제외)
+raw/

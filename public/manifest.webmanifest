@@ -1,0 +1,26 @@
+{
+  "name": "Benefits of Pixels",
+  "short_name": "픽셀의 효능",
+  "description": "흐린 눈으로 볼 수 있게 해준다. 6개의 작품, 7개의 필터로 만나는 픽셀 모션 인터랙션.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "lang": "ko-KR",
+  "icons": [
+    {
+      "src": "/posters/intre.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/posters/intre.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
