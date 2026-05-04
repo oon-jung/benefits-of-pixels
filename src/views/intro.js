@@ -29,14 +29,16 @@ const PAGES = [
       <h1 class="intro-title">&lt;픽셀의 효능&gt;</h1>
       <p class="intro-subtitle">Benefits of Pixels</p>
       <p class="intro-body">
-        선명함 너머의 이야기.<br/>
-        피사체를 픽셀로 흐리게 보면<br/>
-        비극도 다시 희극이 됩니다.
+        픽셀은 과도한 현실감을 줄이고<br/>
+        분노와 민망함을 적당히 완화합니다.
+      </p>
+      <p class="intro-body">
+        선명한 진실로부터 눈을 보호하고,<br/>
+        대충 봐도 괜찮은 마음을 길러줍니다.
       </p>
       <p class="intro-body intro-body-meta">
-        6개의 작품, 7개의 필터.<br/>
-        마음에 드는 사진을 골라<br/>
-        픽셀의 효능을 느껴보세요.
+        장시간 현실 감상으로 인한 피로에<br/>
+        도움이 될 수 있습니다.
       </p>
     `
   }
