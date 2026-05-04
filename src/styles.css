@@ -124,17 +124,21 @@ body.kiosk .card-message-text { font-size: 12px !important; }
 .intro-stack {
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 18px;
   align-items: center;
   flex: 1 1 auto;
   justify-content: center;
   width: 100%;
 }
-.intro-page-quote .intro-stack { gap: 14px; }
+.intro-page-quote .intro-stack { gap: 28px; }
+@media (min-width: 900px) {
+  .intro-stack { gap: 28px; }
+  .intro-page-quote .intro-stack { gap: 44px; }
+}
 .intro-quote-lead {
   margin: 0;
   font-size: clamp(14px, 4vw, 28px);
-  line-height: 1.45;
+  line-height: 1.7;
   letter-spacing: 0.02em;
   font-weight: 500;
 }
@@ -152,7 +156,7 @@ body.kiosk .card-message-text { font-size: 12px !important; }
 .intro-quote-tail {
   margin: 0;
   font-size: clamp(12px, 3.5vw, 22px);
-  line-height: 1.55;
+  line-height: 1.85;
   color: #222;
 }
 .intro-quote-tail strong {
@@ -178,7 +182,7 @@ body.kiosk .card-message-text { font-size: 12px !important; }
 .intro-body {
   margin: 0;
   font-size: clamp(11px, 3vw, 18px);
-  line-height: 1.6;
+  line-height: 1.95;
   color: #222;
 }
 .intro-body-meta {
