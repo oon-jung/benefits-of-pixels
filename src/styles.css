@@ -263,9 +263,28 @@ body.kiosk .card-message-text { font-size: 12px !important; }
   height: 64%;
   object-fit: contain;
   mix-blend-mode: multiply;
-  opacity: 0.92;
+  opacity: 0;
   pointer-events: none;
   display: block;
+  transition: opacity 320ms ease, transform 320ms ease;
+  transform: scale(0.92);
+}
+
+/* 마우스가 있는 환경 — 호버 시 페이드인 */
+@media (hover: hover) and (pointer: fine) {
+  .grid-cell:hover .grid-subject,
+  .grid-cell:focus-visible .grid-subject {
+    opacity: 0.92;
+    transform: scale(1);
+  }
+}
+
+/* 터치 환경 (모바일/Pi) — 호버 없으니 항상 보임 */
+@media (hover: none) {
+  .grid-subject {
+    opacity: 0.92;
+    transform: scale(1);
+  }
 }
 .grid-cell-label {
   position: absolute;
