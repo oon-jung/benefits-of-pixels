@@ -70,13 +70,20 @@ body.kiosk .card-quote-title { font-size: 10px !important; }
 body.kiosk .card-quote { font-size: 11px !important; }
 body.kiosk .card-message-text { font-size: 12px !important; }
 
-/* 노트북/데스크톱 — 화면 풀 활용 */
+/* 노트북/데스크톱 — 16:10 비율 프레임을 가운데. 화면 가득 채우되 디자인 비율 유지 */
 @media (min-width: 900px) {
+  body { display: flex; align-items: center; justify-content: center; background: #0a0a0a; }
   #app {
-    width: 100vw;
-    height: 100vh;
-    max-width: none;
-    max-height: none;
+    width: min(96vw, 90vh * 1.6, 1440px);
+    height: min(90vh, 96vw / 1.6, 900px);
+    outline: 1px solid #1a1a1a;
+  }
+}
+/* 매우 큰 모니터에서 너무 거대해지지 않게 */
+@media (min-width: 1600px) {
+  #app {
+    width: min(80vw, 80vh * 1.6, 1440px);
+    height: min(80vh, 80vw / 1.6, 900px);
   }
 }
 
@@ -249,6 +256,17 @@ body.kiosk .card-message-text { font-size: 12px !important; }
 }
 .grid-cell:active { border-color: var(--accent); }
 .grid-thumb { width: 100%; height: 100%; object-fit: cover; display: block; }
+.grid-subject {
+  position: absolute;
+  inset: 18%;
+  width: 64%;
+  height: 64%;
+  object-fit: contain;
+  mix-blend-mode: multiply;
+  opacity: 0.92;
+  pointer-events: none;
+  display: block;
+}
 .grid-cell-label {
   position: absolute;
   inset: 0;
@@ -361,14 +379,15 @@ body.kiosk .card-message-text { font-size: 12px !important; }
   .card-quote { font-size: 11px; }
 }
 
-/* 노트북/데스크톱 — 글씨 좀 더 크게 */
+/* 노트북/데스크톱 — 텍스트/이미지 비율 균형 맞춤 */
 @media (min-width: 900px) and (orientation: landscape) {
   .card-text {
-    flex: 0 0 220px;
-    padding: 28px 22px 18px 24px;
+    flex: 0 0 280px;
+    padding: 36px 26px 20px 30px;
+    gap: 10px;
   }
-  .card-num { font-size: 44px; }
-  .card-quote-title { font-size: 19px; }
+  .card-num { font-size: 56px; }
+  .card-quote-title { font-size: 22px; }
   .card-quote { font-size: 18px; line-height: 1.65; }
 }
 .card-stage {

@@ -1,0 +1,511 @@
+{
+  "version": "2.0",
+  "lastUpdated": "2026-05-03T13:30:18.146Z",
+  "activeFeatures": [
+    "Benefits of Pixels",
+    "tools",
+    "filters",
+    "animations",
+    "public"
+  ],
+  "primaryFeature": "Benefits of Pixels",
+  "features": {
+    "Benefits of Pixels": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-05-01T15:40:54.976Z",
+        "lastUpdated": "2026-05-03T13:30:18.146Z"
+      },
+      "lastFile": "/Users/woon/Desktop/업그레이드/[6기]아카데믹 디자인 프로젝트 워크숍/Benefits of Pixels/src/views/grid.js"
+    },
+    "tools": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-05-01T15:41:13.930Z",
+        "lastUpdated": "2026-05-01T15:41:13.930Z"
+      },
+      "lastFile": "/Users/woon/Desktop/업그레이드/[6기]아카데믹 디자인 프로젝트 워크숍/Benefits of Pixels/tools/make-placeholder-posters.py"
+    },
+    "filters": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-05-02T04:26:58.604Z",
+        "lastUpdated": "2026-05-02T05:35:22.437Z"
+      },
+      "lastFile": "/Users/woon/Desktop/업그레이드/[6기]아카데믹 디자인 프로젝트 워크숍/Benefits of Pixels/src/filters/glitch.js"
+    },
+    "animations": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-05-02T04:46:42.734Z",
+        "lastUpdated": "2026-05-02T04:46:42.734Z"
+      },
+      "lastFile": "/Users/woon/Desktop/업그레이드/[6기]아카데믹 디자인 프로젝트 워크숍/Benefits of Pixels/src/animations/latent.js"
+    },
+    "public": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-05-02T06:05:29.948Z",
+        "lastUpdated": "2026-05-02T06:05:29.948Z"
+      },
+      "lastFile": "/Users/woon/Desktop/업그레이드/[6기]아카데믹 디자인 프로젝트 워크숍/Benefits of Pixels/public/sw.js"
+    }
+  },
+  "pipeline": {
+    "currentPhase": 1,
+    "level": "Dynamic",
+    "phaseHistory": []
+  },
+  "session": {
+    "startedAt": "2026-05-01T15:28:03.557Z",
+    "onboardingCompleted": false,
+    "lastActivity": "2026-05-03T13:30:18.146Z"
+  },
+  "history": [
+    {
+      "timestamp": "2026-05-01T15:40:54.976Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-01T15:41:13.930Z",
+      "feature": "tools",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-01T15:41:40.043Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-01T15:41:47.061Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-01T15:41:53.613Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-01T15:42:00.638Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-01T15:42:09.555Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-01T15:42:22.009Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-01T15:42:26.677Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-01T15:43:01.262Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-01T15:43:18.576Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-01T15:43:24.707Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T04:21:43.438Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T04:24:08.164Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T04:24:13.241Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T04:26:58.604Z",
+      "feature": "filters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T04:27:05.607Z",
+      "feature": "filters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T04:27:13.265Z",
+      "feature": "filters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T04:27:26.628Z",
+      "feature": "filters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T04:27:32.990Z",
+      "feature": "filters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T04:27:41.402Z",
+      "feature": "filters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T04:27:52.942Z",
+      "feature": "filters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T04:28:00.235Z",
+      "feature": "filters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T04:28:25.399Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T04:45:27.019Z",
+      "feature": "filters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T04:45:34.590Z",
+      "feature": "filters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T04:45:42.782Z",
+      "feature": "filters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T04:45:53.442Z",
+      "feature": "filters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T04:46:00.315Z",
+      "feature": "filters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T04:46:09.383Z",
+      "feature": "filters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T04:46:19.842Z",
+      "feature": "filters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T04:46:27.791Z",
+      "feature": "filters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T04:46:42.734Z",
+      "feature": "animations",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T04:47:22.588Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T04:47:35.746Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T04:48:21.122Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T04:53:22.618Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T05:02:53.305Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T05:06:37.696Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T05:09:30.497Z",
+      "feature": "filters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T05:09:36.286Z",
+      "feature": "filters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T05:09:46.612Z",
+      "feature": "filters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T05:09:54.059Z",
+      "feature": "filters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T05:10:03.041Z",
+      "feature": "filters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T05:10:11.737Z",
+      "feature": "filters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T05:10:16.894Z",
+      "feature": "filters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T05:10:21.580Z",
+      "feature": "filters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T05:10:30.123Z",
+      "feature": "filters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T05:10:35.330Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T05:10:44.928Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T05:21:16.243Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T05:27:10.150Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T05:29:16.928Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T05:29:21.970Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T05:29:28.282Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T05:29:43.371Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T05:29:58.522Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T05:30:05.483Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T05:34:27.287Z",
+      "feature": "filters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T05:34:35.180Z",
+      "feature": "filters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T05:34:43.885Z",
+      "feature": "filters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T05:34:56.057Z",
+      "feature": "filters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T05:35:02.834Z",
+      "feature": "filters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T05:35:15.594Z",
+      "feature": "filters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T05:35:22.437Z",
+      "feature": "filters",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T05:58:57.163Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T05:59:05.168Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T06:05:13.529Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-02T06:05:29.948Z",
+      "feature": "public",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-05-03T13:30:18.146Z",
+      "feature": "Benefits of Pixels",
+      "phase": "do",
+      "action": "updated"
+    }
+  ]
+}

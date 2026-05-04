@@ -14,6 +14,7 @@ export function mount(root) {
             w => `
           <button class="grid-cell" type="button" data-id="${w.id}">
             <img class="grid-thumb" src="/${w.photo}" alt="${w.name}" />
+            ${w.selected ? `<img class="grid-subject" src="/${w.selected}" alt="" aria-hidden="true" />` : ''}
             <span class="grid-cell-label">
               <span class="grid-cell-name">${w.name}</span>
               <span class="grid-cell-emotion">${w.label || ''}</span>
